@@ -9,7 +9,7 @@ Run the application by executing the following command in the terminal:
 ```sh
 ruby todo.rb
 ```
-# Make sure you're in the correct file path
+Make sure you're in the correct file path
 
 ### Expected Output
 
